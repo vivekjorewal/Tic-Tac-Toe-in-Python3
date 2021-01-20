@@ -1,2 +1,2 @@
 # Tic-Tac-Toe-in-Python3
-Amazing tic tac toe code written in python3
+I have made a self project in python3 whose code is here.
